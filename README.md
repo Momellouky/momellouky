@@ -14,7 +14,7 @@ I am Mohamed Mellouky, student at Faculty of sciences and technologies - Univers
 <br>
 <p align = center>
     <a href ="https://twitter.com/MohamedMellouky">
-    <img width = 40 src ="img\social media\Twitter.svg"> 
+    <img width = 40 src ="img\social media\twitter.svg"> 
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp
     <a href = "https://www.facebook.com/M.Mellouky/">
@@ -22,7 +22,7 @@ I am Mohamed Mellouky, student at Faculty of sciences and technologies - Univers
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp
     <a href = "https://www.linkedin.com/in/mohamed-mellouky-3484801bb/">
-    <img width = 40 src ="img\social media\Linkedin.svg">
+    <img width = 40 src ="img\social media\linkedin.svg">
     </a>
 </p>
 
